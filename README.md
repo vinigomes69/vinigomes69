@@ -10,4 +10,4 @@
   
 https://www.alura.com.br
 
-onde pode meencontrar 00001114030065sp
+onde pode me encontrar 00001114030065sp
