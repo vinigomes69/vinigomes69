@@ -6,6 +6,6 @@
 
 - desenvolvendo javascript
   
-  - utilizo esse espaço para conpartilhar projetos 
+  - eu utilizo esse espaço para conpartilhar projetos 
   
 https://www.alura.com.br
